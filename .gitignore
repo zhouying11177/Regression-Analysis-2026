@@ -1,2 +1,8 @@
 .DS_Store
 *.pdf
+
+**/.venv/
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/uv.lock
+*.ipynb

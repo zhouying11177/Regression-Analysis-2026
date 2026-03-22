@@ -1,5 +1,5 @@
 def main():
-    print("Hello from src!")
+    print("Hello from template!")
 
 
 if __name__ == "__main__":
