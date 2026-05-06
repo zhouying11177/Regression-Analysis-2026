@@ -11,3 +11,5 @@
 **/.ipynb_checkpoints/
 **/uv.lock
 *.ipynb
+src/week05/
+src/week06/
